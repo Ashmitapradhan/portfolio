@@ -1,0 +1,20 @@
+.para{
+    font-family: 'Alkatra', cursive;
+font-family: 'Kanit', sans-serif;
+font-size: 1.5rem;
+}
+h1{
+    text-shadow: 7px 2px 12px rgba(0,0,0,0.31);
+    margin-top: 5rem;
+
+}
+h2{
+    text-shadow: 7px 2px 12px rgba(0,0,0,0.31);
+}
+img{
+    border: 1px solid gray;
+    border-radius: 5px;
+    box-shadow: 8px 7px 16px -3px rgba(0,0,0,0.75);
+-webkit-box-shadow: 8px 7px 16px -3px rgba(0,0,0,0.75);
+-moz-box-shadow: 8px 7px 16px -3px rgba(0,0,0,0.75);
+}

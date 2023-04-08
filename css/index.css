@@ -1,0 +1,56 @@
+#bgi {
+    background-image: url('/images/2.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+  
+    
+   
+}
+#bgi{
+    opacity: 0.6;
+}
+#hh{
+    color: white;
+    text-align: center;
+    margin-top: 4%;
+    font-family: 'Alkatra', cursive;
+    font-size: 5rem;
+    margin-top: 0rem;
+    position: relative;
+    top: 10rem;
+}
+.type{
+  position: relative;
+  top: 12rem;
+}
+.type h1 {
+    text-align: center;
+    color: #fff;
+    font-family: monospace;
+    overflow: hidden; 
+    border-right: .15em solid white; 
+    white-space: nowrap;
+    margin: 0 auto; 
+    letter-spacing: .15em; 
+    animation: 
+      typing 3s steps(20, end),
+      blink-caret .5s step-end infinite;
+  }
+  
+ 
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 75% }
+  }
+  
+  
+  @keyframes blink-caret {
+    from, to { border-color: transparent }
+    50% {}
+  }
+  .abc{
+    margin-top: 5rem;
+  }

@@ -1,0 +1,17 @@
+footer{
+    
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    background-color: rgb(188, 240, 240);
+    padding: 1% 0;
+}
+.pd{
+    width: 50%;
+}
+.h1{
+    
+     text-shadow: 7px 2px 12px rgba(0,0,0,0.31);
+    
+}

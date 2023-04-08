@@ -1,0 +1,41 @@
+
+.aboutimg{
+    height: 48%;
+    transition: height 0.6s;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(227,198,227,1);
+-moz-box-shadow: 10px 10px 5px 0px rgba(227,198,227,1);
+box-shadow: 10px 10px 5px 0px rgba(227,198,227,1);
+}
+.aboutimg:hover{
+    height: 51%;
+
+}
+.smimg{
+    width: 55%;
+    height: 95%;
+    border-radius: 100%;
+    transition: width 0.6s;
+}
+.smimg:hover{
+    width: 57%;
+    height: 98%;
+}
+.c{
+    box-shadow: 8px 7px 16px -3px rgba(0,0,0,0.75);
+-webkit-box-shadow: 8px 7px 16px -3px rgba(0,0,0,0.75);
+-moz-box-shadow: 8px 7px 16px -3px rgba(0,0,0,0.75);
+}
+h1{
+    text-shadow: 7px 2px 12px rgba(0,0,0,0.31);
+    margin-top: 5rem;
+
+}
+
+.para{
+    font-family: 'Alkatra', cursive;
+font-family: 'Kanit', sans-serif;
+font-size: 1.5rem;
+}
+.ah{
+    margin-top: 0rem;
+}
